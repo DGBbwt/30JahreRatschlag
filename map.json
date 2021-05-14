@@ -71,9 +71,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioloop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Birds.mp3"
+                 "value":"...\/Birds.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
