@@ -78,7 +78,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"...\/Birds.mp3"
+                 "value":"https:\/\/github.com\/DGBbwt\/30JahreRatschlag\/blob\/master\/Birds.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
