@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"..\/ErsteHilfe\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"...\/Birds.mp3"
+                 "value":"..\/Birds.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
