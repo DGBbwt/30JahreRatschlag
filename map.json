@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"..\/90er\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
