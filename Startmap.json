@@ -77,7 +77,7 @@
                 }, 
                 {
                  "name":"playAudio",
-                 "type":"file",
+                 "type":"string",
                  "value":"...\/Birds.mp3"
                 }],
          "type":"tilelayer",
